@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Game/.vs
+/Game/bin/Debug
+/Game/obj
+/Game/packages/NUnit.3.11.0
+/Game/Properties
